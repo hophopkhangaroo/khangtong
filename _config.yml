@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Khang Tong
 tagline:          'Mathematician and Classical Guitarist'
-description:      'Hey, I do math, music, and languages'
+description:      'Math, music, and language learning'
 url:              https://www.khangtong.com
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
