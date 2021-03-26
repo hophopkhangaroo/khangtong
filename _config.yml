@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Khang Tong
-tagline:          'Mathematician and Classical Guitarist'
+tagline:          Mathematician and Classical Guitarist
 description:      'Math, music, and language learning'
 url:              https://www.khangtong.com
 # baseurl:          '/hydeout'
@@ -17,6 +17,13 @@ url:              https://www.khangtong.com
 author:
   name:           'Khang Tong'
   #url:            https://twitter.com/fongandrewc
+
+social:
+  name: Khang Tong
+  links:
+    - https://www.instagram.com/khang.aroo
+    - https://www.linkedin.com/in/khangtong
+
 
 paginate:         5
 # paginate_path:    '/page:num'
