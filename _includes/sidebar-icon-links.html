@@ -20,26 +20,7 @@
     </a>
         -->
 
-    <a id="youtube-link"
-       class="icon" title="YouTube" aria-label="YouTube"
-       href="https://www.youtube.com/user/hophopkangaroo"
-       target="_blank" rel="noopener noreferrer">
-        {% include svg/youtube.svg %}
-    </a>
-
-    <a id="instagram-link"
-       class="icon" title="Instagram" aria-label="Instagram"
-       href="https://www.instagram.com/khang.aroo"
-       target="_blank" rel="noopener noreferrer">
-        {% include svg/instagram.svg %}
-    </a>
-
-    <a id="linkedin-link"
-       class="icon" title="LinkedIn" aria-label="LinkedIn"
-       href="https://www.linkedin.com/in/khangtong"
-       target="_blank" rel="noopener noreferrer">
-        {% include svg/linkedin.svg %}
-    </a>
+    {% include custom-icon-links.html %}
 
     {% comment %}
     Check if we have tag or search pages page active before linking to it.
@@ -63,7 +44,6 @@
     </a>
     {% endif %}
     -->
-
     {% if search_page %}
     <a id="search-link"
        class="icon{% if page.url == '/search' %} active{% endif %}"
@@ -73,5 +53,4 @@
     </a>
     {% endif %}
 
-    {% include custom-icon-links.html %}
 </nav>
