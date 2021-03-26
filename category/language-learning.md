@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Lanugage Learning
+title: Language Learning
 sidebar_sort_order: 3
 ---
 
-Test
+This section is currently under construction. 

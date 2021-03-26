@@ -20,6 +20,13 @@
     </a>
         -->
 
+    <a id="youtube-link"
+       class="icon" title="YouTube" aria-label="YouTube"
+       href="https://www.youtube.com/user/hophopkangaroo"
+       target="_blank" rel="noopener noreferrer">
+        {% include svg/youtube.svg %}
+    </a>
+
     <a id="instagram-link"
        class="icon" title="Instagram" aria-label="Instagram"
        href="https://www.instagram.com/khang.aroo"
@@ -46,7 +53,7 @@
     {% assign search_page = node %}
     {% endif %}
     {% endfor %}
-
+    <!--
     {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
@@ -55,6 +62,7 @@
         {% include svg/tags.svg %}
     </a>
     {% endif %}
+    -->
 
     {% if search_page %}
     <a id="search-link"
