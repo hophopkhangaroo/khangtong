@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\css",
-    "\\assets\\img",
-    "\\public\\css",
+    "\\_includes",
     "\\_includes\\svg",
-    "\\_sass\\hydeout"
+    "\\_layouts"
   ],
-  "SelectedNode": "\\category",
+  "SelectedNode": "\\_includes\\custom-head.html",
   "PreviewInSolutionExplorer": false
 }
