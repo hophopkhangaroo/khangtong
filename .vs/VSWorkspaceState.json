@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_includes",
-    "\\_includes\\svg",
-    "\\_layouts"
+    "\\category",
+    "\\_includes"
   ],
-  "SelectedNode": "\\_includes\\custom-head.html",
+  "SelectedNode": "\\_includes\\google-analytics.html",
   "PreviewInSolutionExplorer": false
 }
