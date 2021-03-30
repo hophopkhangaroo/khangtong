@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Music
+sidebar_sort_order: 2
 ---
 
 This section is currently under construction. 

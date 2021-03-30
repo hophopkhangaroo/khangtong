@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Math
+sidebar_sort_order: 1
 ---
 
 In an effort to begin going through my sizable math book collection, I will post 
