@@ -40,6 +40,7 @@ h6 {
 p {
   margin-bottom: 1rem;
   margin-top: 0;
+  font-size: 17px; /*changed*/
 }
 
 strong {
@@ -49,8 +50,9 @@ strong {
 ul,
 ol,
 dl {
-  margin-bottom: 1rem;
-  margin-top: 0;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    font-size: 17px; /*changed*/
 }
 
 dt {
