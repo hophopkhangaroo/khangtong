@@ -1,6 +1,7 @@
 ---
-layout: category
+layout: page
 title: Math
+sidebar_link: true
 sidebar_sort_order: 1
 ---
 
@@ -18,6 +19,6 @@ someone out there.
 *Note:* These notes are solely of my creation and as such, may contain errors. If you notice
 any mistakes in my notes, please contact me via email: 
 
-<p style="text-align: center;"><i>(my first name) [at] (the name of this website) [dot] com</i></p>
+<p style="text-align: center;"><i>(my first name) [at] khangtong [dot] com</i></p>
 
 Below are all the in-progress and completed lecture notes I've created:
