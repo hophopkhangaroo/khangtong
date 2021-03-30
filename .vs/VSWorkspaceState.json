@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\category",
-    "\\_includes"
+    "\\assets\\css",
+    "\\assets\\img",
+    "\\language-learning\\assets",
+    "\\math\\assets",
+    "\\music\\assets",
+    "\\_posts",
+    "\\_sass\\hydeout"
   ],
-  "SelectedNode": "\\_includes\\google-analytics.html",
+  "SelectedNode": "\\_posts\\2017-06-01-hello-hydeout.md",
   "PreviewInSolutionExplorer": false
 }

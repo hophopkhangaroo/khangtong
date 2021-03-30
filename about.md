@@ -4,10 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+This page is currently under construction.
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+<div style="background-image: url(/assets/img/new-construction.JPG);width: 73%;height:420px;margin: 0 auto;" >
+</div>
