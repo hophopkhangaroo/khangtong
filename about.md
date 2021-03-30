@@ -6,5 +6,5 @@ sidebar_link: true
 
 This page is currently under construction.
 
-<div style="background-image: url(/assets/img/construction.jpg);width: 73%;height:420px;margin: 0 auto;" >
+<div style="background-image: url(/assets/img/construction.JPG);width: 73%;height:420px;margin: 0 auto;" >
 </div>
