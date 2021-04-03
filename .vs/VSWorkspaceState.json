@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\assets\\css",
-    "\\assets\\img",
-    "\\language-learning\\assets",
-    "\\math\\assets",
     "\\music\\assets",
-    "\\_posts",
+    "\\public",
+    "\\public\\css",
+    "\\_includes",
+    "\\_layouts",
+    "\\_sass",
     "\\_sass\\hydeout"
   ],
-  "SelectedNode": "\\_posts\\2017-06-01-hello-hydeout.md",
+  "SelectedNode": "\\public\\css\\poole.css",
   "PreviewInSolutionExplorer": false
 }
