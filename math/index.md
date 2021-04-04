@@ -27,4 +27,12 @@ Below are all the in-progress and completed lecture notes I've created:
 
 [Geometry](#) *(in progress)* - Picking up right where high school left off, learn about the beautiful world of geometry through a Kleinian view. 
 
-[Introduction to Probability with Applications](#) *(planned)* - A rigorous yet approachable introduction to probability theory 
+Introduction to Probability with Applications *(planned)* - A rigorous yet approachable introduction to probability theory.
+
+Intermediate Linear Algebra *(planned)* - A second year course in Linear Algebra. Can also serve as an advanced first exposure to the subject.
+
+Mathematical Statistics *(planned)* - An *exciting* introduction to the world of mathematical statistics with interesting examples.
+
+Advanced Calculus *(planned)* - Going beyond what is traditionally taught in a lower-division calculus sequence, we will explore additional topics in calculus. For completeness, these notes can also be used to supplement a traditional calculus course.
+
+Complex Analysis *(planned)* - What could be cooler than calculus with imaginary numbers?
