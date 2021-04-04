@@ -19,6 +19,12 @@ someone out there.
 *Note:* These notes are solely of my creation and as such, may contain errors. If you notice
 any mistakes in my notes, please contact me via email: 
 
-<p style="text-align: center;"><i>(my first name) [at] khangtong [dot] com</i></p>
+<p style="text-align: center;"><i>(my first name)@khangtong.com</i></p>
 
 Below are all the in-progress and completed lecture notes I've created:
+
+---
+
+[Geometry](#) *(in progress)* - Picking up right where high school left off, learn about the beautiful world of geometry through a Kleinian view. 
+
+[Introduction to Probability with Applications](#) *(planned)* - A rigorous yet approachable introduction to probability theory 

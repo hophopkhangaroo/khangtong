@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\css",
-    "\\music\\assets",
-    "\\public",
-    "\\public\\css",
-    "\\_includes",
-    "\\_layouts",
-    "\\_sass",
-    "\\_sass\\hydeout"
+    "\\math",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\public\\css\\poole.css",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
