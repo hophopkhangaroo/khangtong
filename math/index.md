@@ -25,7 +25,7 @@ Below are all the in-progress and completed lecture notes I've created:
 
 ---
 
-[Geometry](#) *(in progress)* - Picking up right where high school left off, learn about the beautiful world of geometry through a Kleinian view. 
+[Geometry](geometry) *(in progress)* - Picking up right where high school left off, learn about the beautiful world of geometry through a Kleinian view. 
 
 Introduction to Probability with Applications *(planned)* - A rigorous yet approachable introduction to probability theory.
 

@@ -1,0 +1,24 @@
+.theorem {
+    border: solid;
+    border-width: 2px;
+    display: inline-block;
+    padding: .25rem .25rem;
+    background-color: #d9f7f7;
+    border-radius: 0.5rem;
+}
+.def {
+    border: solid;
+    border-width: 2px;
+    display: inline-block;
+    padding: .25rem .25rem;
+    background-color: #f7f7d9;
+    border-radius: 0.5rem;
+}
+.example {
+    border: solid;
+    border-width: 2px;
+    display: inline-block;
+    padding: .25rem .25rem;
+    background-color: #e8f7d9;
+    border-radius: 0.5rem;
+}

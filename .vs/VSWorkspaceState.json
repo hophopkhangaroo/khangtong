@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\math",
+    "\\math\\assets",
+    "\\math\\Geometry",
+    "\\music",
     "\\_layouts"
   ],
-  "SelectedNode": "\\_layouts\\default.html",
+  "SelectedNode": "\\_layouts\\page.html",
   "PreviewInSolutionExplorer": false
 }
