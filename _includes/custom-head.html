@@ -1,25 +1,68 @@
 <!-- Additional head bits without overriding original head -->
 
+<!-- Meta tags -->
+<meta name="description" content="
+    {% if page.description %}
+      {{ page.description }}
+    {% else %}
+      Khang Tong is a San Diego-based mathematician, musician, and language enthusiast.
+    {% endif %}
+      " />
+<link rel="canonical" href="https://www.khangtong.com{{ page.url }}" />
+<meta property="og:title" content="
+    {% if page.title == "Home" %}
+      {{ site.title }}{% if site.tagline %} &middot; {{ site.tagline }}{% endif %}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+      "/>
+<meta property="og:description" content="
+    {% if page.description %}
+      {{ page.description }}
+    {% else %}
+      Khang Tong is a San Diego-based mathematician, musician, and language enthusiast.
+    {% endif %}
+      " />
+<meta property="og:url" content="https://www.khangtong.com{{ page.url }}" />
+<meta property="og:site_name" content="Khang Tong" />
+<meta property="og:type" content="website" />
+<meta name="google-site-verification" content="PZjLnbBXESBt-FRaJeR_2eCqZM4MFr05qhdw7s6GYgc" />
+<meta name="twitter:card" content="/assets/img/khang-home.JPG" />
+<meta name="twitter:title" content="
+    {% if page.title == "Home" %}
+      {{ site.title }}{% if site.tagline %} &middot; {{ site.tagline }}{% endif %}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+      " />
+<meta name="twitter:description" content="
+    {% if page.description %}
+      {{ page.description }}
+    {% else %}
+      Khang Tong is a San Diego-based mathematician, musician, and language enthusiast.
+    {% endif %}
+      " />
+
 <meta property="og:image" content="/assets/img/khang-home.JPG" />
 
 <!-- for mathjax support -->
 {% if page.usemathjax %}
-    <script>
+<script>
     MathJax = {
-        tex: {
-            inlineMath: [['$', '$'], ["\\(", "\\)"]],
-            processEscapes: true,
-            macros: {
-                R: '\\mathbb{R}',
-                Q: '\\mathbb{Q}',
-                C: '\\mathbb{C}',
-                Z: '\\mathbb{Z}',
-                N: '\\mathbb{N}',
-                E: '\\mathbb{E}'
-            }
-        }
+    tex: {
+    inlineMath: [['$', '$'], ["\\(", "\\)"]],
+    processEscapes: true,
+    macros: {
+    R: '\\mathbb{R}',
+    Q: '\\mathbb{Q}',
+    C: '\\mathbb{C}',
+    Z: '\\mathbb{Z}',
+    N: '\\mathbb{N}',
+    E: '\\mathbb{E}'
     }
-    </script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    }
+    }
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 {% endif %}

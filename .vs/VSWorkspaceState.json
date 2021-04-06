@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\math",
-    "\\math\\assets",
-    "\\math\\Geometry",
+    "\\affiliate-links",
+    "\\math\\assets\\styles",
+    "\\math\\geometry",
     "\\music",
+    "\\_includes",
     "\\_layouts"
   ],
-  "SelectedNode": "\\_layouts\\page.html",
+  "SelectedNode": "\\_includes\\page-links.html",
   "PreviewInSolutionExplorer": false
 }
