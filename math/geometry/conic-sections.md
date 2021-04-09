@@ -30,15 +30,14 @@ Then for any circle with center $C=(a, b)$, we have that any arbitrary point, $(
 		(a) center: origin, radius: $3$ <br>  
 		(b) center: $(4,2)$, radius: $7$<br>
 		(c) center: $(\sqrt{2}, 3)$, radius: $\sqrt[3]{7}$ <br></p>
-	<p><strong>Solution</strong><br>
+	<p style="overflow: auto;"><strong>Solution</strong><br>
 	Here, we're just plugging numbers into the formula we found earlier:</p>
-		<p>(a) $(x-0)^2 + (y-0)^2 = 3^2 \implies x^2+y^2=9$ </p>
+		<p style="overflow: auto;">(a) $(x-0)^2 + (y-0)^2 = 3^2 \implies x^2+y^2=9$ </p>
 		<p>(b) $(x-4)^2 + (y-2)^2 = 49$ </p>
 		<p>(c) Note that $\sqrt[3]{7}=7^{\frac{1}{3}}$. So then $(x-\sqrt{2})^2 + (y-3)^2 = 7^{\frac{2}{3}}$ </p> 
 </div>
 
 If we expand our formula, we get that \\[x^2 + y^2 -2ax -2by + (a^2 +b^2 -r^2) = 0.\\]
-
 So then let $f=-2a$, $g=-2b$, and $h=a^2 +b^2 -r^2$. Our equation becomes \\[x^2+y^2+fx+gy+h=0.\\]
 
 <div class="box example">
@@ -57,9 +56,9 @@ So we've seen that the equation for a circle can be written as $x^2 + y^2 +fx +g
 Recall [completing the square](https://www.mathsisfun.com/algebra/completing-square.html){:target="_blank" rel="noopener noreferrer"}. Isolate terms that involve only $x$ and terms that involve only $y$. Complete the squares of these two expressions and plug back into the original equation. For example, consider \\[x^2=y^2-2x-4y+2=0.\\] Writing only the terms that involve $x$ and the terms that involve $y$ and completing the square, we obtain \\[x^2-2x = (x-1)^2-1\\] \\[y^2-4y=(y-2)^2-4.\\]
 
 Plugging this back into our original equation, we get 
-\\[\begin{align}
+\begin{align}
 	(x-1)^2-1+(y-2)^2-4+2 &= 0 \\\\ (x-1)^2+(y-2)^2 &= 3
-\end{align}\\]
+\end{align}
 We can now easily see that the center is $(1,2)$ and the radius is $\sqrt{3}$.
 
 Similarly, if we apply the same method to the general form $x^2 + y^2 +fx +gy + h = 0,$ we obtain the equation \\[\left(x+\frac{1}{2}f\right)^2 +\left(y+\frac{1}{2}g\right)^2 = \frac{1}{4}f^2+\frac{1}{4}g^2-h.\\]
