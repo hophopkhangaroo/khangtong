@@ -1,6 +1,6 @@
 .box {
     border: 2px solid black;
-    display: inline-block;
+    display: block;
     padding: .25rem .25rem;
     border-radius: 0.5rem;
 }
