@@ -49,18 +49,19 @@
 {% if page.usemathjax %}
 <script>
     MathJax = {
-    tex: {
-    inlineMath: [['$', '$'], ["\\(", "\\)"]],
-    processEscapes: true,
-    macros: {
-    R: '\\mathbb{R}',
-    Q: '\\mathbb{Q}',
-    C: '\\mathbb{C}',
-    Z: '\\mathbb{Z}',
-    N: '\\mathbb{N}',
-    E: '\\mathbb{E}'
-    }
-    }
+        tex: {
+            inlineMath: [['$', '$'], ["\\(", "\\)"]],
+            processEscapes: true,
+            tags: 'ams',
+            macros: {
+                R: '\\mathbb{R}',
+                Q: '\\mathbb{Q}',
+                C: '\\mathbb{C}',
+                Z: '\\mathbb{Z}',
+                N: '\\mathbb{N}',
+                E: '\\mathbb{E}',
+            },
+        }
     }
 </script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>

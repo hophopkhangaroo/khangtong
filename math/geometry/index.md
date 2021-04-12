@@ -12,4 +12,4 @@ While these notes are self-contained, if you'd like to follow along, I am referr
 *Prerequisites:* High-school level algebra. Some linear algebra might help although I will introduce concepts as needed.
 
 [Conics Review](conics-review.md) - In this chapter, we study conic sections for their own interest. We will see them frequently throughout later chapters.  
-&ensp; [Conic Sections and Conics](conic-sections.md) -   
+&ensp; [Conic Sections and Conics](conic-sections.md) - In this section, we investigate how to describe conic sections.

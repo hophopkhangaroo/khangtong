@@ -1,12 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\affiliate-links",
+    "\\assets",
     "\\assets\\css",
+    "\\assets\\img",
     "\\math",
+    "\\math\\assets",
+    "\\math\\assets\\styles",
     "\\math\\geometry",
-    "\\_includes",
-    "\\_sass\\hydeout"
+    "\\_includes"
   ],
-  "SelectedNode": "\\_includes\\custom-head.html",
   "PreviewInSolutionExplorer": false
 }
