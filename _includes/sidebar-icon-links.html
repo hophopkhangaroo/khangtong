@@ -12,14 +12,6 @@
     </a>
     {% endif %}
 
-    <!--
-        <a id="subscribe-link"
-       class="icon" title="Subscribe" aria-label="Subscribe"
-       href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
-        {% include svg/feed.svg %}
-    </a>
-        -->
-
     {% include custom-icon-links.html %}
 
     {% comment %}
@@ -34,7 +26,7 @@
     {% assign search_page = node %}
     {% endif %}
     {% endfor %}
-    <!--
+<!--
     {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
@@ -43,7 +35,7 @@
         {% include svg/tags.svg %}
     </a>
     {% endif %}
-    -->
+-->
     {% if search_page %}
     <a id="search-link"
        class="icon{% if page.url == '/search' %} active{% endif %}"
