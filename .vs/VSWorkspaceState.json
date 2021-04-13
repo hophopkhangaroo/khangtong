@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\affiliate-links",
     "\\assets",
-    "\\assets\\css",
     "\\assets\\img",
     "\\math",
     "\\math\\assets",
-    "\\math\\assets\\styles",
-    "\\math\\geometry",
-    "\\_includes"
+    "\\math\\assets\\img",
+    "\\_includes",
+    "\\_layouts",
+    "\\_sass",
+    "\\_sass\\hydeout"
   ],
+  "SelectedNode": "\\_sass\\hydeout\\_variables.scss",
   "PreviewInSolutionExplorer": false
 }
