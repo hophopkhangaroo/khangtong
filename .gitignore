@@ -46,4 +46,5 @@ Makefile
 Gemfile.lock
 _config.dev.yml
 .vscode
+.vs/
 *.gem
