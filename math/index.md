@@ -6,8 +6,7 @@ sidebar_sort_order: 1
 ---
 
 In an effort to begin going through my sizable math book collection, I will post 
-self-contained lecture notes (with accompanying video lectures on my 
-[math YouTube channel](https://www.youtube.com/channel/UCPxEP_IWPezOlK1WiQzO8tA){:target="_blank" rel="noopener noreferrer"}). 
+self-contained lecture notes (with accompanying [video lectures](https://www.youtube.com/channel/UCPxEP_IWPezOlK1WiQzO8tA){:target="_blank" rel="noopener noreferrer"}). 
 The goal is so that anyone with the necessary prerequisites should be able to self-study from these notes. 
 
 The inspiration for this undertaking comes from 

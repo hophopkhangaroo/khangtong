@@ -12,7 +12,7 @@ Shaped by interests which informed my upbringing, I have always been pulled in m
 - Training to become a better conduit for which that beauty can manifest itself in a form translatable across the human experience (music).
 - Communicating the human experience across the vast intricacies and nuances which makes each of our individual worlds unique (language learning).
 
-I am a recent graduate from UC San Diego. I created this website mainly as a place to showcase my interests and create resources that may hopefully help others. If you'd like to contact me regarding guitar lessons or anything else, please use my email:
+I am currently working towards obtaining my masters in biostatistics at UC San Diego. I created this website mainly as a place to showcase my interests and create resources that may hopefully help others. If you'd like to contact me regarding guitar lessons or anything else, please use my email:
 
 <p style="text-align: center;"><i>(my first name)@khangtong.com</i></p>
 
