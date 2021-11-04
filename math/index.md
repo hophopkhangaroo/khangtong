@@ -24,9 +24,9 @@ Below are all the in-progress and completed lecture notes I've created:
 
 ---
 
-[Geometry](geometry) *(in progress)* - Picking up right where high school left off, learn about the beautiful world of geometry through a Kleinian view. 
+[Introduction to Probability with Applications](intro-probability) *(in progress)* - A rigorous yet approachable introduction to probability theory.
 
-Introduction to Probability with Applications *(planned)* - A rigorous yet approachable introduction to probability theory.
+[Geometry](geometry) *(in progress)* - Picking up right where high school left off, learn about the beautiful world of geometry through a Kleinian view. 
 
 Intermediate Linear Algebra *(planned)* - A second year course in Linear Algebra. Can also serve as an advanced first exposure to the subject.
 
@@ -35,3 +35,11 @@ Mathematical Statistics *(planned)* - An *exciting* introduction to the world of
 Advanced Calculus *(planned)* - Going beyond what is traditionally taught in a lower-division calculus sequence, we will explore additional topics in calculus. For completeness, these notes can also be used to supplement a traditional calculus course.
 
 Complex Analysis *(planned)* - What could be cooler than calculus with imaginary numbers?
+
+---
+
+## Textbook Solutions
+
+Below is a collection of my worked out solutions to textbook exercises to aid in self-study. Use at your own risk as there's likely to be mistakes.
+
+[Ross, Kenneth A. Elementary Analysis: The Theory of Calculus](solutions/ross-elementary-analysis-solutions.pdf){:target="_blank"} (very incomplete) *last updated: 3/14/21*
