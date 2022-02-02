@@ -24,14 +24,23 @@ For these notes, I will be referencing *Statistical Inference, 2nd ed. (2002)* b
 &ensp; [3.2 Continuous Distributions](continuous-distributions) \\
 &ensp; [3.3 Exponential Families](exponential-families) \\
 &ensp; [3.4 Location and Scale Families](location-and-scale-families) \\
-&ensp; [3.5 Inequalities and Identities](inequalities-and-identities) <!-- \\
+&ensp; [3.5 Inequalities and Identities](inequalities-and-identities) \\
 [4 Multiple Random Variables](multiple-random-variables) \\
-&ensp; [Joint and Marginal Distributions](joint-marginal-distributions) \\
-&ensp; [Conditional Distributions and Independence](cond-distributions-and-independence) \\
-&ensp; [Bivariate Transformations](bivariate-transformations) \\
-&ensp; [Hierarchical Models and Mixture Distributions](hierarchical-models-mix-dist) \\
-&ensp; [Covariance and Correlation](covariance-and-correlation) \\
-&ensp; [Multivariate Distribution](multivariate-distribution) \\
-&ensp; [Numerical Inequalities](numerical-inequalities) \\
-&ensp; [Functional Inequalities](functional-inequalities) \\
--->
+&ensp; [4.1 Joint and Marginal Distributions](joint-and-marginal-distributions) \\
+&ensp; [4.2 Conditional Distributions and Independence](conditional-distributions-and-independence) \\
+&ensp; [4.3 Bivariate Transformations](bivariate-transformations) \\
+&ensp; [4.4 Hierarchical Models and Mixture Distributions](hierarchical-models-mix-dist) \\
+&ensp; [4.5 Covariance and Correlation](covariance-and-correlation) \\
+&ensp; [4.6 Multivariate Distribution](multivariate-distribution) \\
+&ensp; [4.7 Numerical Inequalities](numerical-inequalities) \\
+&ensp; [4.8 Functional Inequalities](functional-inequalities) \\
+[5 Properties of a Random Sample](random-sample) \\
+&ensp; [5.1 Basic Concepts of Random Samples](random-sample-basics) \\
+&ensp; [5.2 Sums of Random Variables from a Random Sample](random-sample-sums) \\
+&ensp; [5.3 Sampling from the Normal Distribution](sample-normal-distribution) \\
+&ensp; [5.4 Order Statistics](order-statistics) \\
+&ensp; [5.5 Convergence in Probability](convergence-in-probability) \\
+&ensp; [5.6 Almost Sure Convergence](almost-sure-convergence) \\
+&ensp; [5.7 Convergence in Distribution](convergence-in-distribution) \\
+&ensp; [5.8 The Delta Method](delta-method) \\
+&ensp; [5.9 Generating a Random Sample](generating-a-random-sample)

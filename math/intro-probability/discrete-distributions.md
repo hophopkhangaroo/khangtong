@@ -9,13 +9,17 @@ A random variable $X$ is said to have a discrete distribution if its sample spac
 
 *Note on notation:* When talking about parametric distributions, where the distribution is dependent on the value of the parameter, we use the symbol "$\vert$", read as "given", after the random variable to emphasize dependence of the distribution on the parameters. In cases where there is no ambiguity, the parameters are sometimes omitted to avoid clutter.
 
+All expectations, variances, and mgfs will be given without derivation as they are good exercises (and easily Googleable)!
+
 # Discrete Uniform Distribution
 A random variable $X$ has a discrete uniform distribution $X\sim (1,N)$ if its pmf is
 \\[P(X = x \vert N) = \frac{1}{N}, \;\; x = 1,2,\ldots, N\\]
 where $N$ is a specified integer.
 
-\\[E(X) = \frac{N + 1}{2}, \;\; Var(X) = \frac{(N+1)(N-1)}{12}\\]
-\\[ M_X(t) = \frac{e^{at} - e^{(b+1)t}}{(b-a+1)(1-e^t)}\\]
+|--------|-------------------|
+|\\[E(X)\\]|\\[\frac{N + 1}{2}\\]|
+|\\[Var(X)\\]|\\[\frac{(N+1)(N-1)}{12}\\]|
+|\\[ M_X(t)\\]|\\[\frac{e^{at} - e^{(b+1)t}}{(b-a+1)(1-e^t)}\\]|
 
 # Hypergeometric Distribution
 
