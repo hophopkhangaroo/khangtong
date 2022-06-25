@@ -51,6 +51,8 @@ body {
   background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
+  margin: auto;
+  width: 100%;
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -198,42 +200,45 @@ body {
   .index #sidebar { margin-bottom: 0; }
 
   // Make entire container background white to contrast against sidebar
-  .container {
-    background: $body-bg;
-    color: $body-color;
-    min-height: 100vh;
-    padding:
-      $section-spacing * 2
-      $section-spacing * 2
-      0;
+    .container {
+        background: $body-bg;
+        color: $body-color;
+        min-height: 100vh;
+        padding: $section-spacing * 2 $section-spacing * 2 0;
 
-    @if $layout-reverse {
-      margin-right: $sidebar-width;
-    }
-
-    @else {
-      margin-left: $sidebar-width;
-    }
-
-    > header {
-      color: $heading-color;
-      margin: 0;
-
-      h1,
-      h2 {
-        color: inherit;
-
-        &:last-child {
-          margin-bottom: $heading-spacing;
+        @if $layout-reverse {
+            margin-right: $sidebar-width;
         }
-      }
-    }
 
-    > * {
-      max-width: 38rem;
-      padding: 0;
+        @else {
+            margin-left: $sidebar-width;
+        }
+
+        > header {
+            color: $heading-color;
+            // margin: inherit;
+            // position: relative;
+            //transform: translateX(-$content-max-width/2.25);
+            padding: 0;
+           // max-width: $content-max-width/5;
+           width: 100%;
+           margin: auto;
+
+            h1,
+            h2 {
+                color: inherit;
+
+                &:last-child {
+                    margin-bottom: $heading-spacing;
+                }
+            }
+        }
+
+        > * {
+            max-width: $content-max-width;
+            padding: 0;
+        }
     }
-  }
 }
 
 /* -----------------------------------------------------------

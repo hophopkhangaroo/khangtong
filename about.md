@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 	
-<img src="assets/img/khang-about1.jpg" width="800" alt="About page image with guitar" style="margin-top: 1rem;">
+<img src="assets/img/khang-about1.jpg" width="100%" alt="About page image with guitar" style="margin-top: 1rem;">
 
 Shaped by interests which informed my upbringing, I have always been pulled in many directions. Whether you call it hopelessly distracted or fiercely devoted to ever-changing moments and topics, time and time again I return to three areas which continually provide a wealth of inspiration:
 
