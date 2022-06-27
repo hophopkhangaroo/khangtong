@@ -24,17 +24,36 @@ Below are all the in-progress and completed lecture notes I've created:
 
 ---
 
-[Introduction to Probability with Applications](intro-probability) *(in progress)* - A rigorous yet approachable introduction to probability theory.
+[Introduction to Probability with Applications](intro-probability) *(in progress)* -- A rigorous yet approachable introduction to probability theory.
 
-[Geometry](geometry) *(in progress)* - Picking up right where high school left off, learn about the beautiful world of geometry through a Kleinian view. 
+[Geometry](geometry) *(in progress)* -- Picking up right where high school left off, learn about the beautiful world of geometry through a Kleinian view. 
 
-Intermediate Linear Algebra *(planned)* - A second year course in Linear Algebra. Can also serve as an advanced first exposure to the subject.
+Intermediate Linear Algebra *(planned)* -- A second year course in Linear Algebra. Can also serve as an advanced first exposure to the subject.
 
-Mathematical Statistics *(planned)* - An *exciting* introduction to the world of mathematical statistics with interesting examples.
+Mathematical Statistics *(planned)* -- An *exciting* introduction to the world of mathematical statistics with interesting examples.
 
-Advanced Calculus *(planned)* - Going beyond what is traditionally taught in a lower-division calculus sequence, we will explore additional topics in calculus. For completeness, these notes can also be used to supplement a traditional calculus course.
+Advanced Calculus *(planned)* -- Going beyond what is traditionally taught in a lower-division calculus sequence, we will explore additional topics in calculus. For completeness, these notes can also be used to supplement a traditional calculus course.
 
-Complex Analysis *(planned)* - What could be cooler than calculus with imaginary numbers?
+Complex Analysis *(planned)* -- What could be cooler than calculus with imaginary numbers?
+
+---
+
+## Teaching Assistant
+
+I've had the privilege of being a teaching assistant for some courses at UCSD. Here are my discussion notes:
+
+[MATH 10B](10b) -- Calculus II.
+
+[MATH 11](11) -- Calculus-based introductory probability and statistics.
+
+[MATH 18](18) -- Linear Algebra.
+
+### Student Evaluations
+
+|---------|--------------|
+|MATH 10B | [Spring 2022](evals/WI22-10B.pdf)|
+|MATH 11  | [Fall 2021](evals/FA21-11.pdf)|
+|MATH 18  | [Winter 2021](evals/WI21-18.pdf)|
 
 ---
 

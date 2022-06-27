@@ -17,6 +17,7 @@ source "https://rubygems.org"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15.1"
+  gem "jekyll-paginate"
 end
 
 gem 'eventmachine'#, :github => 'eventmachine/eventmachine'#, :ref => 'b7d9ef8'

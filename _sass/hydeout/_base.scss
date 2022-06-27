@@ -79,6 +79,31 @@ tbody tr:nth-child(odd) th {
   background-color: $gray-1;
 }
 
+
+/*Make tables look more like science standard
+
+table {
+    border-collapse: collapse;
+    font-size: 85%;
+    width: 100%;
+}
+
+table > :is(thead, tbody) > tr > :is(th, td) {
+    padding: 3px;
+    text-align: left;
+}
+
+table > thead > tr > :is(th, td) {
+    border-top: 2px solid;
+    border-bottom: 1px solid;
+}
+
+table > tbody > tr:last-child > :is(th, td) {
+    border-bottom: 2px solid;
+}
+
+*/
+
 button,
 input[type='text'],
 input[type='email'],
