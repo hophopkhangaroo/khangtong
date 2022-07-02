@@ -57,6 +57,14 @@ I've had the privilege of being a teaching assistant for some courses at UCSD. H
 
 ---
 
+## Fun Stuff
+
+Below are some posts about cool math applications!
+
+[To Catch a Serial Killer: Rossmo's Formula](fun/rossmo) -- Featured in the pilot episode of the TV show [Numb3rs](https://en.wikipedia.org/wiki/Numbers_(TV_series)){:target="_blank" rel="noopener noreferrer"}, this formula was developed to help find the residence of serial killers.
+
+---
+
 ## Textbook Solutions
 
 Below is a collection of my worked out solutions to textbook exercises to aid in self-study. Use at your own risk as there's likely to be mistakes.
