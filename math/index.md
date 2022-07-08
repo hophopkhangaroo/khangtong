@@ -42,11 +42,11 @@ Complex Analysis *(planned)* -- What could be cooler than calculus with imaginar
 
 I've had the privilege of being a teaching assistant for some courses at UCSD. Here are my discussion notes:
 
-[MATH 10B](10b) -- Calculus II.
+[MATH 10B](https://drive.google.com/drive/folders/1Vqp5xE0qXDqkp17YtZzCG7figXMjK5Yb?usp=sharing){:target="_blank" rel="noopener noreferrer"} -- Calculus II.
 
-[MATH 11](11) -- Calculus-based introductory probability and statistics.
+[MATH 11](https://drive.google.com/drive/folders/1RZ5VeQk0ThTXZjaZVHCJ8y3r8IVcELEp?usp=sharing){:target="_blank" rel="noopener noreferrer"} -- Calculus-based introductory probability and statistics.
 
-[MATH 18](18) -- Linear Algebra.
+[MATH 18](https://drive.google.com/drive/folders/1As-51zZxD1h0dIMLEqIoWE0lH-3w3Sor?usp=sharing){:target="_blank" rel="noopener noreferrer"} -- Linear Algebra.
 
 ### Student Evaluations
 
