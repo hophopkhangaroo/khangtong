@@ -46,7 +46,7 @@ I've had the privilege of being a teaching assistant for some courses at UCSD. H
 
 [MATH 11](https://drive.google.com/drive/folders/1RZ5VeQk0ThTXZjaZVHCJ8y3r8IVcELEp?usp=sharing){:target="_blank" rel="noopener noreferrer"} -- Calculus-based introductory probability and statistics.
 
-[MATH 18](https://drive.google.com/drive/folders/1As-51zZxD1h0dIMLEqIoWE0lH-3w3Sor?usp=sharing){:target="_blank" rel="noopener noreferrer"} -- Linear Algebra.
+[MATH 18](Math-18-Notes.pdf) -- Linear Algebra.
 
 ### Student Evaluations
 
