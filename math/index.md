@@ -55,6 +55,7 @@ I've had the privilege of being a teaching assistant for some courses at UCSD. H
 |MATH 11  | [Fall 2021](evals/FA21-11.pdf)|
 |MATH 18  | [Winter 2021](evals/WI21-18.pdf)|
 |MATH 20C | [Fall 2022](evals/FA22-20C.pdf)|
+|MATH 18  | [Winter 2023](evals/WI23-18.pdf)|
 
 ---
 
